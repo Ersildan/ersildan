@@ -12,7 +12,6 @@ I take courses on Stepik and solve problems on LeetCode.
 [![Codewars](https://img.shields.io/badge/Codewars-Ersildan-red)](https://www.codewars.com/users/ersildan)
 
 ## 🛠️ Skills
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -22,4 +21,9 @@ I take courses on Stepik and solve problems on LeetCode.
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+## 📂 Progects
+- **PortfolioPython**: Мои проекты на Python.
+- **gitCourse**: Курс по Git и GitHub.
+- **SQL**: Задания и проекты на SQL.
+- **PythonOOP**: Изучение объектно-ориентированного программирования на Python.
 
