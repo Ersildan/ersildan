@@ -10,6 +10,10 @@ I take courses on Stepik and solve problems on LeetCode.
 [![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
 [![Codewars](https://img.shields.io/badge/Codewars-ersildan-red)](https://www.codewars.com/users/ersildan)
 
-![Ersildan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ersildan&show_icons=true&theme=radical)
+## 🛠️ Навыки
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
