@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Обо мне
 
-Привет! Я — самоучка, изучаю Python, SQL, Git и GitHub. /
+Привет! Я — самоучка, изучаю Python, SQL, Git и GitHub. <br>
 Прохожу курсы на Stepik и решаю задачи на LeetCode.
 
 [![Telegram](https://img.shields.io/badge/Telegram-ersildan-blue)](https://t.me/ersildan)
