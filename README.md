@@ -8,5 +8,5 @@
 Прохожу курсы на Stepik и решаю задачи на LeetCode.
 
 [![Telegram](https://img.shields.io/badge/Telegram-ersildan-blue)](https://t.me/ersildan)
-[![Stepik](https://img.shields.io/badge/Stepik-377286794-orange)](https://stepik.org/users/377286794)
+[![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
 [![Codewars](https://img.shields.io/badge/Codewars-ersildan-red)](https://www.codewars.com/users/ersildan)
