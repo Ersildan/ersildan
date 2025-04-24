@@ -6,7 +6,7 @@
 I am self-taught, learning Python, SQL, Git and GitHub. <br>
 I take courses on Stepik and solve problems on LeetCode.
 
-#Links profils: [![Telegram](https://img.shields.io/badge/Telegram-ersildan-blue)](https://t.me/ersildan)
+## Links profils: [![Telegram](https://img.shields.io/badge/Telegram-ersildan-blue)](https://t.me/ersildan)
 [![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
 [![Codewars](https://img.shields.io/badge/Codewars-ersildan-red)](https://www.codewars.com/users/ersildan)
 
