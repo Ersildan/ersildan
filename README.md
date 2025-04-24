@@ -22,8 +22,7 @@ I take courses on Stepik and solve problems on LeetCode.
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## 📂 Progects
-- **PortfolioPython**: Мои проекты на Python.
-- **gitCourse**: Курс по Git и GitHub.
-- **SQL**: Задания и проекты на SQL.
-- **PythonOOP**: Изучение объектно-ориентированного программирования на Python.
-
+- **SlapGame-Python**: First pet-project on Python :D
+- **SQL**: Tasks and projects in SQL (leetCode, SQLAcademy and etc)
+- **PythonOOP**: Learn Object Oriented Programming with Python.
+- **gitCourse**: Cource Git and GitHub.
