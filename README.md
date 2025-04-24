@@ -1,6 +1,7 @@
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=36BCF7&left=true&vLeft=true&width=600&lines=%20Hello+there!;Welcome+to+my+profile!" alt="Typing SVG" /></p> 
-
+ 
 ## 👨‍💻 About me
 I am self-taught, learning Python, SQL, Git and GitHub. <br>
 I take courses on Stepik and solve problems on LeetCode.
