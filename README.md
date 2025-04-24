@@ -6,14 +6,19 @@
 I am self-taught, learning Python, SQL, Git and GitHub. <br>
 I take courses on Stepik and solve problems on LeetCode.
 
-[![Telegram](https://img.shields.io/badge/Telegram-ersildan-blue)](https://t.me/ersildan)
+other profiles: [![Telegram](https://img.shields.io/badge/Telegram-ersildan-blue)](https://t.me/ersildan)
 [![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
 [![Codewars](https://img.shields.io/badge/Codewars-ersildan-red)](https://www.codewars.com/users/ersildan)
 
-## 🛠️ Навыки
+## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 
