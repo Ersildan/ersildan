@@ -10,8 +10,6 @@ I take courses on Stepik and solve problems on LeetCode.
 - **SlapGame-Python**: [Link to repo](https://github.com/Ersildan/SlapGame-Python) First pet-project on Python :]
 - **Portfolio**: [Link to repo](https://github.com/Ersildan/PortfolioPython) Will be updated over time
 - **SQL**: [link to repo](https://github.com/Ersildan/SQL) Tasks and projects in SQL (leetCode, SQLAcademy and etc)
-- **PythonOOP**: Learn Object Oriented Programming with Python.
-- **gitCourse**: Cource Git and GitHub.
 
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -23,5 +21,5 @@ I take courses on Stepik and solve problems on LeetCode.
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-My social [![Telegram](https://img.shields.io/badge/Telegram-Ersildan-blue)](https://t.me/ersildan)
-My profile on Stepik. [![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
+##My social [![Telegram](https://img.shields.io/badge/Telegram-Ersildan-blue)](https://t.me/ersildan)<br>
+##My profile on Stepik. [![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
