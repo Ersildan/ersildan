@@ -5,6 +5,9 @@
 ### About me
 I am self-taught, learning Python, SQL, Git and GitHub. <br>
 I take courses on Stepik and solve problems on LeetCode.
+[![Telegram](https://img.shields.io/badge/Telegram-Ersildan-blue)](https://t.me/ersildan)
+[![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
+
 
 ### 📂 Projects
 - **SlapGame-Python**: [Link to repo](https://github.com/Ersildan/SlapGame-Python) First pet-project on Python :]
@@ -18,5 +21,5 @@ I take courses on Stepik and solve problems on LeetCode.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-## My social [![Telegram](https://img.shields.io/badge/Telegram-Ersildan-blue)](https://t.me/ersildan)<br>
-## My profile on Stepik. [![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
+## My social <br>
+## My profile on Stepik. 
