@@ -5,6 +5,7 @@
 ### About me
 I am self-taught, learning Python, SQL, Git and GitHub. <br>
 I take courses on Stepik and solve problems on LeetCode.<br>
+
 [![Telegram](https://img.shields.io/badge/Telegram-Ersildan-blue)](https://t.me/ersildan)
 [![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
 
