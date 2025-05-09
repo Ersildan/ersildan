@@ -1,6 +1,5 @@
-Hello everyone
+### Hello everyone
 
-### About me
 I am self-taught, learning Python, SQL, Git and GitHub. <br>
 I take courses on Stepik and solve problems on LeetCode.<br>
 
