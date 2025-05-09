@@ -1,4 +1,4 @@
-Hello
+Hello everyone
 
 ### About me
 I am self-taught, learning Python, SQL, Git and GitHub. <br>
