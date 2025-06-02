@@ -1,5 +1,4 @@
 ![Hello](https://github.com/Ersildan/ersildan/blob/main/head.jpg)
-
 ### Hello everyone
 
 I am self-taught, learning Python, SQL, Git and GitHub. <br>
