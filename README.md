@@ -1,7 +1,7 @@
 ![Hello](https://github.com/Ersildan/ersildan/blob/main/head.jpg)
 ### Hello everyone
 
-I am learning Python, SQL, Git and GitHub. <br>
+I am learning Python, SQL, Git, Linux and GitHub. <br>
 Take courses on Stepik and solve problems on LeetCode.<br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-Ersildan-blue)](https://t.me/ersildan)
