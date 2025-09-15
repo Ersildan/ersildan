@@ -10,8 +10,8 @@ Take courses on Stepik and solve problems on LeetCode.<br>
 
 ### 📂 Projects
 - **SlapGame-Python**: [Link to repo](https://github.com/Ersildan/SlapGame-Python) First pet-project on Python :]
-- **Portfolio**: [Link to repo](https://github.com/Ersildan/PortfolioPython) Will be updated over time
-- **SQL**: [link to repo](https://github.com/Ersildan/SQL) Tasks and projects in SQL (leetCode, SQLAcademy and etc)
+- **Portfolio**: [Link to repo](https://github.com/Ersildan/PortfolioPython) Will be updated over time (pet-progetcs, leetCode and etc)
+- **SQL**: [link to repo](https://github.com/Ersildan/SQL) Tasks and projects in SQL (SQLAcademy and etc)
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
