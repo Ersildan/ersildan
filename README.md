@@ -1,15 +1,3 @@
 ![Hello](https://github.com/Ersildan/ersildan/blob/main/head.jpg)
 
-### 📂 Projects
-- **SlapGame-Python**: [Link to repo](https://github.com/Ersildan/SlapGame-Python) First pet-project on Python :]
-- **Portfolio**: [Link to repo](https://github.com/Ersildan/PortfolioPython) Pet-projects, leetCode and etc
-- **SQL**: [link to repo](https://github.com/Ersildan/SQL) Courses and projects in SQL
-
-### Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=sql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-[![Telegram](https://img.shields.io/badge/Telegram-Ersildan-blue)](https://t.me/ersildan)
-[![Stepik](https://img.shields.io/badge/Stepik-Andrew-green)](https://stepik.org/users/377286794)
+### Work in progress
