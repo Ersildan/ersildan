@@ -5,11 +5,9 @@ Data Engineer skilled in developing and maintaining ETL/ELT pipelines using Pyth
 My core competencies include data modeling, warehouse design, and workflow orchestration. <br>
 I am focused on creating efficient and reliable data solutions.
 
-### Data Engineering & Python Portfolio
-**[Code Portfolio](https://github.com/ersildan/Code-Portfolio)** 
+**Data Engineering & Python Portfolio: [📁 Code Portfolio](https://github.com/ersildan/Code-Portfolio)**
 
 ### Stack
-
 **Languages & Core**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&logoWidth=20" alt="Python" height="22">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&logoWidth=20" alt="SQL" height="22">
