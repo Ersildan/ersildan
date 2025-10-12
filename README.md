@@ -8,7 +8,7 @@ I am focused on creating efficient and reliable data solutions.
 **Data Engineering & Python Portfolio: [📁 Code Portfolio](https://github.com/ersildan/Code-Portfolio)**
 
 • **Languages & Core**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B&logoWidth=20" alt="Python" height="22">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20" alt="Python" height="22">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white&logoWidth=20" alt="SQL" height="22">
 
 • **Data Warehouses & DBs**<br>
@@ -28,7 +28,7 @@ I am focused on creating efficient and reliable data solutions.
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white&logoWidth=20" alt="Kafka" height="22">
 
 • **Development & DevOps**<br>
-<img src="https://img.shields.io/badge/PyCharm-21D789?style=flat&logo=pycharm&logoColor=white&logoWidth=20" alt="PyCharm" height="22">
+<img src="https://img.shields.io/badge/PyCharm-3776AB?style=flat&logo=pycharm&logoColor=white&logoWidth=20" alt="PyCharm" height="22">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&logoWidth=20" alt="VSCode" height="22">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white&logoWidth=20" alt="Jupyter" height="22">
 <img src="https://img.shields.io/badge/DBeaver-8B7355?style=flat&logo=dbeaver&logoColor=white&logoWidth=20" alt="DBeaver" height="22">
@@ -36,3 +36,6 @@ I am focused on creating efficient and reliable data solutions.
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&logoWidth=20" alt="GitHub" height="22">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white&logoWidth=20" alt="GitLab" height="22">
 
+**Contact**<br>
+[<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="22">](https://t.me/ersildan)
+[<img src="https://img.shields.io/badge/Stepik_Profile-00B956?style=flat&logo=stepik&logoColor=white" alt="Stepik" height="22">](https://stepik.org/users/377286794/profile)
