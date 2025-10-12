@@ -5,7 +5,8 @@ Data Engineer skilled in developing and maintaining ETL/ELT pipelines using Pyth
 My core competencies include data modeling, warehouse design, and workflow orchestration. <br>
 I am focused on creating efficient and reliable data solutions.
 
-• **Data Engineering & Python Portfolio: [📁 Code Portfolio](https://github.com/ersildan/Code-Portfolio)**
+**Data Engineering & Python Portfolio: <br>
+• [📁 Code Portfolio](https://github.com/ersildan/Code-Portfolio)**
 
 **Technical Stack**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20" alt="Python" height="22">
@@ -25,6 +26,6 @@ I am focused on creating efficient and reliable data solutions.
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white&logoWidth=20" alt="GitLab" height="22"><br>
 <img src="https://img.shields.io/badge/DBeaver-8B7355?style=flat&logo=dbeaver&logoColor=white&logoWidth=20" alt="DBeaver" height="22">
 
-**Contact**<br>
+**Contacts**<br>
 [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="22">](https://t.me/ersildan)
-[<img src="https://img.shields.io/badge/Stepik_Profile-00B956?style=flat&logo=stepik&logoColor=white" alt="Stepik" height="22">](https://stepik.org/users/377286794/profile)
+[<img src="https://img.shields.io/badge/Andrey_Svistunov-000000?style=flat&logo=stepik&logoColor=white&label=stepik&labelColor=0066FF" alt="Stepik" height="22">](https://stepik.org/users/377286794/profile)
