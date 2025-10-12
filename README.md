@@ -8,7 +8,7 @@ I am focused on creating efficient and reliable data solutions.
 **Data Engineering & Python Portfolio: [📁 Code Portfolio](https://github.com/ersildan/Code-Portfolio)**
 
 • **Languages & Core**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=3776AB&logoWidth=20" alt="Python" height="22">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B&logoWidth=20" alt="Python" height="22">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white&logoWidth=20" alt="SQL" height="22">
 
 • **Data Warehouses & DBs**<br>
